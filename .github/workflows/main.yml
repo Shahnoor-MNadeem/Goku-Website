@@ -3,7 +3,7 @@ name: Deploy to Apache Server
 on:
   push:
     branches:
-      - main  # or your working branch
+      - main  # or your working branch 
 
 jobs:
   deploy:
